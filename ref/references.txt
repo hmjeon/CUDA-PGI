@@ -1,0 +1,8 @@
+Multiprocessor Programming
+http://www.bu.edu/tech/support/research/software-and-programming/programming/multiprocessor/
+
+PGI compiler Flags
+http://www.bu.edu/tech/support/research/software-and-programming/programming/compilers/pgi-compiler-flags/
+
+OpenACC
+https://www.softek.co.jp/SPG/Pgi/OpenACC/012-1.html#ORTH-F
